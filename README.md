@@ -3,10 +3,10 @@
 **Frontend Developer · React.js & Next.js · CS Student · Open to Internships**
 
 📍 Cairo, Egypt
-🎓 Pharaohs Academy — Faculty of Computers & AI (Class of 2027)
+🎓 Cairo University — Faculty of Computers & AI 
 📚 Route Academy — Full Stack Development Diploma (Frontend Completed)
 🏆 ITI Mahara-Tech — Frontend, AI & Deep Learning Tracks
-🔍 Open to **Summer 2026** Frontend or Full Stack Internship
+🔍 Open to Frontend or Full Stack Internship
 
 ---
 
@@ -63,7 +63,7 @@
 
 | Institution | Program | Year |
 |------------|---------|------|
-| Pharaohs Academy — FCAI | BSc Computer Science | 2027 |
+| Cairo University — FCAI | BSc Computer Science | 2027 |
 | Route Academy | Full Stack Diploma — Frontend Completed | 2025–Present |
 | ITI Mahara-Tech | Frontend · AI · Deep Learning · Networks | 2025–2026 |
 
